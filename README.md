@@ -1,0 +1,1 @@
+Link github ini digunakan sebagai tugas exercise saya di bidang software sampai minggu terakhir
